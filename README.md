@@ -1,4 +1,4 @@
-# countdown
+# calculator
 
 ## Project setup
 ```
